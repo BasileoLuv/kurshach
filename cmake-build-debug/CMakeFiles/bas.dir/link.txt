@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bas.dir/main.cpp.o CMakeFiles/bas.dir/List.cpp.o CMakeFiles/bas.dir/MyString.cpp.o CMakeFiles/bas.dir/Node.cpp.o CMakeFiles/bas.dir/Reader.cpp.o  -o bas 

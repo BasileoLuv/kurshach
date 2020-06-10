@@ -1,0 +1,3 @@
+/home/basileo/CLionProjects/bas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/basileo/CLionProjects/bas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/basileo/CLionProjects/bas/cmake-build-debug/CMakeFiles/bas.dir
